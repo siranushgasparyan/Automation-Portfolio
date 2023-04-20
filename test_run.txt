@@ -1,0 +1,119 @@
+1680778476.407895 - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x0037DCE3]
+	(No symbol) [0x003139D1]
+	(No symbol) [0x00224DA8]
+	(No symbol) [0x0020D0D3]
+	(No symbol) [0x0026EA8B]
+	(No symbol) [0x0027D093]
+	(No symbol) [0x0026ACC6]
+	(No symbol) [0x00246F68]
+	(No symbol) [0x002480CD]
+	GetHandleVerifier [0x005F3832+2506274]
+	GetHandleVerifier [0x00629794+2727300]
+	GetHandleVerifier [0x0062E36C+2746716]
+	GetHandleVerifier [0x00426690+617600]
+	(No symbol) [0x0031C712]
+	(No symbol) [0x00321FF8]
+	(No symbol) [0x003220DB]
+	(No symbol) [0x0032C63B]
+	BaseThreadInitThunk [0x760B7D69+25]
+	RtlInitializeExceptionChain [0x7747B74B+107]
+	RtlClearBits [0x7747B6CF+191]
+
+1680778476.412916 - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x0037DCE3]
+	(No symbol) [0x003139D1]
+	(No symbol) [0x00224DA8]
+	(No symbol) [0x0020D0D3]
+	(No symbol) [0x0026EA8B]
+	(No symbol) [0x0027D093]
+	(No symbol) [0x0026ACC6]
+	(No symbol) [0x00246F68]
+	(No symbol) [0x002480CD]
+	GetHandleVerifier [0x005F3832+2506274]
+	GetHandleVerifier [0x00629794+2727300]
+	GetHandleVerifier [0x0062E36C+2746716]
+	GetHandleVerifier [0x00426690+617600]
+	(No symbol) [0x0031C712]
+	(No symbol) [0x00321FF8]
+	(No symbol) [0x003220DB]
+	(No symbol) [0x0032C63B]
+	BaseThreadInitThunk [0x760B7D69+25]
+	RtlInitializeExceptionChain [0x7747B74B+107]
+	RtlClearBits [0x7747B6CF+191]
+
+1680778476.494483 - INFO - ====== WebDriver manager ======
+1680778477.183506 - INFO - Get LATEST chromedriver version for google-chrome 111.0.5563
+1680778478.095790 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+1680778481.051895 - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x0037DCE3]
+	(No symbol) [0x003139D1]
+	(No symbol) [0x00224DA8]
+	(No symbol) [0x0020D0D3]
+	(No symbol) [0x0026EA8B]
+	(No symbol) [0x0027D093]
+	(No symbol) [0x0026ACC6]
+	(No symbol) [0x00246F68]
+	(No symbol) [0x002480CD]
+	GetHandleVerifier [0x005F3832+2506274]
+	GetHandleVerifier [0x00629794+2727300]
+	GetHandleVerifier [0x0062E36C+2746716]
+	GetHandleVerifier [0x00426690+617600]
+	(No symbol) [0x0031C712]
+	(No symbol) [0x00321FF8]
+	(No symbol) [0x003220DB]
+	(No symbol) [0x0032C63B]
+	BaseThreadInitThunk [0x760B7D69+25]
+	RtlInitializeExceptionChain [0x7747B74B+107]
+	RtlClearBits [0x7747B6CF+191]
+
+1680778481.051895 - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=111.0.5563.147)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x0037DCE3]
+	(No symbol) [0x003139D1]
+	(No symbol) [0x00224DA8]
+	(No symbol) [0x0020D0D3]
+	(No symbol) [0x0026EA8B]
+	(No symbol) [0x0027D093]
+	(No symbol) [0x0026ACC6]
+	(No symbol) [0x00246F68]
+	(No symbol) [0x002480CD]
+	GetHandleVerifier [0x005F3832+2506274]
+	GetHandleVerifier [0x00629794+2727300]
+	GetHandleVerifier [0x0062E36C+2746716]
+	GetHandleVerifier [0x00426690+617600]
+	(No symbol) [0x0031C712]
+	(No symbol) [0x00321FF8]
+	(No symbol) [0x003220DB]
+	(No symbol) [0x0032C63B]
+	BaseThreadInitThunk [0x760B7D69+25]
+	RtlInitializeExceptionChain [0x7747B74B+107]
+	RtlClearBits [0x7747B6CF+191]
+
+1680787387.322769 - ERROR - Result is incorrect
+1680787387.524875 - INFO - ====== WebDriver manager ======
+1680787388.313091 - INFO - Get LATEST chromedriver version for google-chrome 111.0.5563
+1680787389.264703 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+1680787471.763685 - ERROR - Result is incorrect
+1680787471.929584 - INFO - ====== WebDriver manager ======
+1680787472.595560 - INFO - Get LATEST chromedriver version for google-chrome 111.0.5563
+1680787473.347405 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+1680787556.586634 - INFO - Result is correct!
+1680787558.758778 - INFO - ====== WebDriver manager ======
+1680787559.372111 - INFO - Get LATEST chromedriver version for google-chrome 111.0.5563
+1680787560.143360 - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
