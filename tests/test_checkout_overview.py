@@ -15,7 +15,6 @@ def test_add_to_card(driver):
     """
     Test case to check the final total price of the products
     """
-    driver = webdriver.Chrome()
     global price2
     login_page_url = test_data.login_url
     helper = GeneralHelpers(driver)

@@ -13,7 +13,6 @@ def test_add_to_card(driver):
     """
     Test case to check if added items titles are correct in the Your Cart page
     """
-    driver = webdriver.Chrome()
     login_page_url = test_data.login_url
     helper = GeneralHelpers(driver)
     helper.go_to_page(login_page_url)
